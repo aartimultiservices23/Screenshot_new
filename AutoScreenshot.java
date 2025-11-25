@@ -13,7 +13,7 @@ import javax.imageio.ImageIO;
 
 public class AutoScreenshot {
 
-    // 🔥 Interval in seconds (20 seconds)
+    // Interval in seconds (20 seconds)
     private static final long INTERVAL_SECONDS = 20;
     private static final String FOLDER_NAME = "screenshots";
 
